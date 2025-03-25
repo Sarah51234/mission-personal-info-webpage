@@ -85,7 +85,7 @@ li::before {
     margin-right: 10px;
 }
 
-.q {
+#q {
     font-weight: bold;
     font-size: 18px;
     color: #ff6b81;
